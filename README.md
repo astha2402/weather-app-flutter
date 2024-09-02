@@ -1,3 +1,3 @@
-# waether_app
+# weather_app
 
 A new Flutter project.
